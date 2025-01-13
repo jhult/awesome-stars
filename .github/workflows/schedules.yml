@@ -1,0 +1,32 @@
+name: Update Awesome-Stars
+on:
+  workflow_dispatch: null
+  schedule:
+    - cron: 30 0 * * *
+jobs:
+  awesome-stars:
+    name: Update Awesome-Stars
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install starred
+      - name: Get Repository Name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: Update README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run:
+          starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token
+          ${GITHUB_TOKEN} --message 'Update README.md' --topic --topic_limit 500
+          --filename README.md
