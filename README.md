@@ -12,6 +12,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -398,13 +399,14 @@
 
 ## android 
 
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
@@ -545,7 +547,7 @@
 - [hopfront/hopfront](https://github.com/hopfront/hopfront) - Turn any API into a workable app in 2 minutes
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
@@ -616,6 +618,10 @@
 - [membrane/api-gateway](https://github.com/membrane/api-gateway) - API gateway for REST, OpenAPI, GraphQL and SOAP written in Java.
 - [revapi/revapi](https://github.com/revapi/revapi) - Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more 
 - [perlundq/yajsync](https://github.com/perlundq/yajsync) - A Java implementation of the rsync protocol
+
+## arduino 
+
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 
 ## artificial-intelligence 
 
@@ -1030,7 +1036,6 @@
 - [libressl/portable](https://github.com/libressl/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are wel
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful ls alternative for bringing clarity to the filesystem ☀️
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [deliberative/crypto](https://github.com/deliberative/crypto) - Cryptographic operations in WASM, C, Typescript for Nodejs and the browser.
@@ -1482,7 +1487,6 @@
 
 - [ndsev/zserio](https://github.com/ndsev/zserio) - zero sugar, zero fat, zero serialization overhead
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
@@ -1989,7 +1993,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [oceanbase/odc](https://github.com/oceanbase/odc) - OceanBase Developer Center(ODC), An open-source, enterprise-grade database tool for collaborative development
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
@@ -2879,7 +2883,6 @@
 - [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -3313,13 +3316,13 @@
 - [lucioreyli/graphql-formatter](https://github.com/lucioreyli/graphql-formatter) - A rust based tool to format GraphQL files.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation.
-- [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [wbaldoumas/graphql-to-karate](https://github.com/wbaldoumas/graphql-to-karate) - Automagically generate Karate API tests from your GraphQL schemas. Useful for test-driven development, change validation in CI/CD, and more.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [jkmartindale/gql-sdl](https://github.com/jkmartindale/gql-sdl) - CLI tool to download the GraphQL schema (as GraphQL SDL or JSON) from a given API with introspection enabled
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
@@ -3937,7 +3940,7 @@
 
 ## image-processing 
 
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -4039,7 +4042,6 @@
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [JCTools/JCTools](https://github.com/JCTools/JCTools) - 
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -4287,7 +4289,6 @@
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [koknat/callGraph](https://github.com/koknat/callGraph) - A multi-language tool which parses source code for function definitions and calls
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -5094,7 +5095,7 @@
 ## llm 
 
 - [tekacs/llm-pricing](https://github.com/tekacs/llm-pricing) - 
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
@@ -6028,7 +6029,7 @@
 
 ## opencv 
 
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 
 ## opengl 
 
@@ -6066,7 +6067,7 @@
 - [FasterXML/jackson-bom](https://github.com/FasterXML/jackson-bom) - Bill of materials POM for Jackson projects
 - [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd) - Claude Code Commands Manager
 - [mystor/git-revise](https://github.com/mystor/git-revise) - A handy tool for doing efficient in-memory commit rebases & fixups
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
@@ -6271,6 +6272,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [cmyr/cargo-instruments](https://github.com/cmyr/cargo-instruments) - A cargo plugin to generate Xcode Instruments trace files
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [facebookexperimental/allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search
@@ -7807,7 +7809,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards) - Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's produ
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
@@ -7898,7 +7900,6 @@
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [koknat/callGraph](https://github.com/koknat/callGraph) - A multi-language tool which parses source code for function definitions and calls
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -8167,6 +8168,7 @@
 
 ## raspberry-pi 
 
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
@@ -8436,6 +8438,7 @@
 
 ## robotics 
 
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 
 ## ruby 
@@ -8476,7 +8479,7 @@
 
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Rust/Cursive TUI for looking at launchd agents and daemons
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -8487,6 +8490,7 @@
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
+- [DataDog/datadog-lambda-extension](https://github.com/DataDog/datadog-lambda-extension) - The Datadog Lambda Extension supports submitting: custom metrics; traces; logs; and more observability; asynchronously while your AWS Lambda function executes.
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀)
@@ -8522,7 +8526,6 @@
 - [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
 - [drewdeponte/alt](https://github.com/drewdeponte/alt) - Command line tool to find alternate files
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
@@ -9039,7 +9042,7 @@
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [lambci/serverless-actions](https://github.com/lambci/serverless-actions) - Serverless GitHub Actions
-- [DataDog/datadog-lambda-extension](https://github.com/DataDog/datadog-lambda-extension) - The Datadog Lambda Extension is an AWS Lambda Extension that supports submitting custom metrics, traces, and logs asynchronously while your AWS Lambda function executes.
+- [DataDog/datadog-lambda-extension](https://github.com/DataDog/datadog-lambda-extension) - The Datadog Lambda Extension supports submitting: custom metrics; traces; logs; and more observability; asynchronously while your AWS Lambda function executes.
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.
 - [Genez-io/genezio](https://github.com/Genez-io/genezio) - Deploy on the fastest full-stack cloud. Experience the autoscaling of near-zero latency serverless without rewriting your code.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -9712,7 +9715,6 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
