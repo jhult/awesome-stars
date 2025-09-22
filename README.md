@@ -211,6 +211,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -6110,6 +6111,7 @@
 
 ## others 
 
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [mjedynak/pit-idea-plugin](https://github.com/mjedynak/pit-idea-plugin) - IntelliJ Idea plugin for PIT mutation testing
@@ -6243,7 +6245,6 @@
 - [didtheyghostme/didtheyghostme](https://github.com/didtheyghostme/didtheyghostme) - Find out who is applying to the same job as you and whether you got ghosted
 - [jeffreybergier/Teskemon](https://github.com/jeffreybergier/Teskemon) - Tailscale network monitor for macOS
 - [18F/open-source-policy](https://github.com/18F/open-source-policy) - This repository contains the official Open Source Policy of 18F
-- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [harrisonmg/moku](https://github.com/harrisonmg/moku) - A Rust library for creating hierarchical state machines
 - [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs) - Torii is a powerful authentication framework for Rust applications that gives you complete control over your users' data.
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
@@ -6377,7 +6378,6 @@
 - [jrwashburn/mina-addresses](https://github.com/jrwashburn/mina-addresses) - Contains mina and o1 registered/managed addresses - intended as a submodule
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [emareg/classlesscss](https://github.com/emareg/classlesscss) - CSS with few but great styles for basic HTML5 tags
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [sukima/GitFixUm](https://github.com/sukima/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git
@@ -6396,7 +6396,6 @@
 - [ryanberckmans/already-seen](https://github.com/ryanberckmans/already-seen) - Auto-hide Reddit links after you've seen them once. :eyes:  (also Hacker News links)
 - [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
 - [raszpl/hackahackernews](https://github.com/raszpl/hackahackernews) - hackernews comment/viewed improvements
-- [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
@@ -6436,7 +6435,6 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [podman-desktop/extension-bootc](https://github.com/podman-desktop/extension-bootc) - Support for bootable OS containers (bootc) and generating disk images
 - [queer/peckish](https://github.com/queer/peckish) - peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
-- [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [MinaFoundation/Core-Grants](https://github.com/MinaFoundation/Core-Grants) - 
 - [jonhoo/stream-cancel](https://github.com/jonhoo/stream-cancel) - A Rust library for interrupting asynchronous streams.
@@ -6551,7 +6549,6 @@
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform camera suite.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
-- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [SeaWorld-Parks-and-Entertainment/TarPit](https://github.com/SeaWorld-Parks-and-Entertainment/TarPit) - 
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [LNshuti/usgov-contracts-rag](https://github.com/LNshuti/usgov-contracts-rag) - Use Text to SQL to analyze US Government contract data
@@ -6607,7 +6604,6 @@
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
 - [RJVB/afsctool](https://github.com/RJVB/afsctool) - This is a version of "brkirch"'s afsctool utility that allows end-users to leverage HFS+ compression.
-- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) - Obtain GraphQL API Schema even if the introspection is not enabled
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
@@ -7920,6 +7916,31 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+
+## programming-language 
+
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
+- [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
+- [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+- [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
+- [jolie/jolie](https://github.com/jolie/jolie) - The Jolie programming language
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
+- [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
+- [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## project-management 
 
