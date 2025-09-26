@@ -38,6 +38,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -272,7 +273,6 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
-- [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
@@ -290,12 +290,13 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
-- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
@@ -677,7 +678,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Patrowl/PatrowlEngines](https://github.com/Patrowl/PatrowlEngines) - PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -1332,6 +1333,79 @@
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
+## cloud 
+
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
+- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS.
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
+- [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
+- [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+- [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
+- [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting sorted by minimal plan price
+- [VirtuslabRnD/pulumi-kotlin](https://github.com/VirtuslabRnD/pulumi-kotlin) - Experimental support for Kotlin language in Pulumi
+- [anthonycorletti/hotbox](https://github.com/anthonycorletti/hotbox) - 🏃 Run your code 📦 on Firecracker MicroVMs 🔥 in the cloud ☁️
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
+- [sqlitebrowser/dbhub.io](https://github.com/sqlitebrowser/dbhub.io) - A "Cloud" for SQLite databases.  Collaborative development for your data. 😊
+- [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
+- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [rancher/elemental-toolkit](https://github.com/rancher/elemental-toolkit) - :snowflake: The toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images
+- [goenning/webping.cloud](https://github.com/goenning/webping.cloud) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [oracle/oci-cli](https://github.com/oracle/oci-cli) - Command Line Interface for Oracle Cloud Infrastructure
+- [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
+- [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+- [cycloidio/terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI
+- [oracle/oci-go-sdk](https://github.com/oracle/oci-go-sdk) - Go SDK for Oracle Cloud Infrastructure
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
+- [oracle/oci-typescript-sdk](https://github.com/oracle/oci-typescript-sdk) - Oracle Cloud Infrastructure SDK for TypeScript and JavaScript
+- [schmidtp0740/ociadm](https://github.com/schmidtp0740/ociadm) - A rearchitected oci cli tool for developers built in Go!
+- [rosalexander/oci-postman-prerequests](https://github.com/rosalexander/oci-postman-prerequests) - Prerequest scripts to use the Oracle Cloud Infrastructure REST API in Postman
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [fuzziebrain/oci-le-cert-manager](https://github.com/fuzziebrain/oci-le-cert-manager) - A Docker image with scripts to automate the process of generating/renewing Let's Encrypt SSL Certificates and then deploying them to a load balancer on the Oracle Cloud Infrastructure.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) - Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [sblack4/ATPJava](https://github.com/sblack4/ATPJava) - https://github.com/oracle/oci-java-sdk samples for Oracle Autonomous Transaction Processing Service written in Java
+- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
+- [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
+- [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
 ## cms 
 
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -1551,7 +1625,7 @@
 - [cryptography-cafe/ed25519-elisabeth](https://github.com/cryptography-cafe/ed25519-elisabeth) - Pure Java implementation of Ed25519
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [josephernest/nfreezer](https://github.com/josephernest/nfreezer) - nFreezer is an encrypted-at-rest backup tool.
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [Password4j/password4j](https://github.com/Password4j/password4j) - Java cryptographic library that supports Argon2, bcrypt, scrypt and PBKDF2 aimed to protect passwords in databases. Easy to use by design, highly customizable, secure and portable. All the implementat
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -1933,7 +2007,6 @@
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [reggi/htmx-components](https://github.com/reggi/htmx-components) - 🧩 Async HTMX + JSX
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -2082,7 +2155,7 @@
 - [carlosbaraza/lostdock](https://github.com/carlosbaraza/lostdock) - CLI tool to manage an affordable VPS server and deploy multiple applications powered by `docker compose`. Other orchestration software solutions are too complex for the underserved small startup. Get 
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
@@ -2189,6 +2262,7 @@
 
 ## docker 
 
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
@@ -2438,7 +2512,7 @@
 ## education 
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [taybenlor/runno](https://github.com/taybenlor/runno) - Sandboxed runtime for programming languages and WASI binaries. Works in the browser or on your server.
+- [taybenlor/runno](https://github.com/taybenlor/runno) - Sandboxed runtime for programming languages and WASI binaries. Works in the browser, on your server, or via MCP.
 - [Escape-Technologies/graphql-security-academy](https://github.com/Escape-Technologies/graphql-security-academy) - 🔒 A free, open-source platform dedicated to understand and secure GraphQL applications — all directly in your browser!
 - [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -2733,7 +2807,6 @@
 ## game-development 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 
@@ -3052,7 +3125,6 @@
 
 ## godot 
 
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
@@ -3256,7 +3328,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [joefitzgerald/openair](https://github.com/joefitzgerald/openair) - A go generator for the OpenAir XML API
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -3408,6 +3480,7 @@
 
 ## hacking 
 
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of runn
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
@@ -3453,6 +3526,7 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
@@ -3481,13 +3555,11 @@
 - [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI/GUI applications written in Rust 🦀
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
-- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters.
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about) - 📜 Cargo plugin to generate list of all licenses for a crate 🦀
@@ -3515,7 +3587,6 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
 - [JohnCrickett/SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design.
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
@@ -3565,7 +3636,7 @@
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
@@ -4045,6 +4116,9 @@
 
 ## java 
 
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
+- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of runn
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
 - [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java
 - [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests.
@@ -4141,7 +4215,7 @@
 - [nbaars/paseto4j](https://github.com/nbaars/paseto4j) - Paseto implementation for Java
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
@@ -5180,7 +5254,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -6111,6 +6185,9 @@
 
 ## others 
 
+- [thomasmueller/rubiks](https://github.com/thomasmueller/rubiks) - Rubik's Cube Beginner Solution in 7 Steps
+- [konveyor/tackle-test-generator-core](https://github.com/konveyor/tackle-test-generator-core) - 
+- [konveyor/tackle-test-generator-cli](https://github.com/konveyor/tackle-test-generator-cli) - 
 - [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [aGallea/tests-coverage-report](https://github.com/aGallea/tests-coverage-report) - Github action for tests coverage report
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
@@ -6167,7 +6244,7 @@
 - [Veraticus/mentat](https://github.com/Veraticus/mentat) - Personal assistant
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [skydeckai/skydeckai-code](https://github.com/skydeckai/skydeckai-code) - 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -6506,7 +6583,6 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
-- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [Granola-Team/mina-block-explorer](https://github.com/Granola-Team/mina-block-explorer) - Web application for the Mina blockchain
@@ -6968,7 +7044,6 @@
 - [boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins) - Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [rancher/elemental-toolkit](https://github.com/rancher/elemental-toolkit) - :snowflake: The toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images
 - [tmccombs/hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json
 - [crc-org/crc](https://github.com/crc-org/crc) - CRC is a tool to help you run containers. It manages local VMs to run a OpenShift 4.x cluster, Microshift or Podman optimized for testing and development purposes
 - [markopolo123/faasd-oracle-cloud-terraform](https://github.com/markopolo123/faasd-oracle-cloud-terraform) - Faasd on Oracle Cloud using Terraform
@@ -7066,7 +7141,6 @@
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [ludovicocaldara/tf-fpp](https://github.com/ludovicocaldara/tf-fpp) - Terraform scripts to provision Oracle FPP Server 19c (on OCI DBCS) and a target (on OCI compute)
 - [amplify-education/python-hcl2](https://github.com/amplify-education/python-hcl2) - 
-- [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
 - [hashicorp/terraform-json](https://github.com/hashicorp/terraform-json) - Helper types for the Terraform external data representation
 - [mumoshu/variant2](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app today
 - [datreeio/jira-backup-py](https://github.com/datreeio/jira-backup-py) - python script to create, download and upload to s3 your Jira or Confluence cloud instance backup
@@ -7103,7 +7177,6 @@
 - [ITD27M01/oci-route-table-updater](https://github.com/ITD27M01/oci-route-table-updater) - Route table updater for Oracle Cloud Infrastructure
 - [sbalousek/OCI-Structurizr](https://github.com/sbalousek/OCI-Structurizr) - Structurizer Themes for Oracle Cloud Infrastructure (OCI)
 - [Halimer/oci-scripts](https://github.com/Halimer/oci-scripts) - Oracle Cloud Infrastructure Scripts Repo
-- [fuzziebrain/oci-le-cert-manager](https://github.com/fuzziebrain/oci-le-cert-manager) - A Docker image with scripts to automate the process of generating/renewing Let's Encrypt SSL Certificates and then deploying them to a load balancer on the Oracle Cloud Infrastructure.
 - [recursivecodes/oci-policy-generator](https://github.com/recursivecodes/oci-policy-generator) - A simple Groovy tool to generate IAM policies for Oracle Cloud Infrastructure.
 - [GaryHostt/Oracle_Integration](https://github.com/GaryHostt/Oracle_Integration) - Knowledge repository for OIC.
 - [oracle/oci-toolkit-eclipse](https://github.com/oracle/oci-toolkit-eclipse) - Oracle Cloud Infrastructure Toolkit for Eclipse
@@ -7112,7 +7185,6 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and we
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
@@ -7177,7 +7249,6 @@
 - [HoodFeelGood/YNAB-public](https://github.com/HoodFeelGood/YNAB-public) - 
 - [BrendanRomanDev/YNAB-API-UI](https://github.com/BrendanRomanDev/YNAB-API-UI) - A personal dashboard UI, built to interact with the YNAB (YouNeedABudget) API.
 - [syampillai/SOComponents](https://github.com/syampillai/SOComponents) - A set of Vaadin Flow Components derived from various Web Components
-- [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [smallstep/autocert](https://github.com/smallstep/autocert) - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
 - [seknox/trasa](https://github.com/seknox/trasa) - Zero Trust Service Access
 - [milio48/serveo](https://github.com/milio48/serveo) - Serveo port forwarder, ngrok alternative
@@ -7296,7 +7367,6 @@
 - [mcollovati/vaadin-spinkit](https://github.com/mcollovati/vaadin-spinkit) - SpinKit component for Vaadin
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [chrisgray13/TogglToOpenAir-ChromeExtension](https://github.com/chrisgray13/TogglToOpenAir-ChromeExtension) - 
-- [sblack4/ATPJava](https://github.com/sblack4/ATPJava) - https://github.com/oracle/oci-java-sdk samples for Oracle Autonomous Transaction Processing Service written in Java
 - [recursivecodes/oci-adb-jdbc-java-secrets](https://github.com/recursivecodes/oci-adb-jdbc-java-secrets) - An example of using the secrets service in Oracle Cloud to store Autonomous DB wallet files.
 - [recursivecodes/oci-custom-metrics](https://github.com/recursivecodes/oci-custom-metrics) - An example of using the OCI Java SDK to publish custom metrics on the Oracle Cloud. This is a Micronaut application that runs a scheduled job every 60 seconds to post DB load & storage info as custom 
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -7566,6 +7636,7 @@
 
 ## p2p 
 
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
@@ -9736,6 +9807,9 @@
 
 ## testing 
 
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
+- [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of runn
 - [vmlens/vmlens](https://github.com/vmlens/vmlens) - Deterministic Unit Tests for Multi-Threaded Java
 - [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -10003,10 +10077,6 @@
 ## unity 
 
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
-
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## vim 
 
@@ -10324,6 +10394,29 @@
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## zsh 
+
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [z-shell/zsh-zoxide](https://github.com/z-shell/zsh-zoxide) - ⚙️ The ajeetdsouza/zoxide init for Zsh
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 
 
 ## License
