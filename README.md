@@ -299,14 +299,13 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - ETL, Analytics, Versioning for Unstructured Data
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -359,7 +358,7 @@
 
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -405,7 +404,7 @@
 - [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -569,7 +568,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [hopfront/hopfront](https://github.com/hopfront/hopfront) - Turn any API into a workable app in 2 minutes
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -676,7 +675,7 @@
 - [nicolodiamante/prune](https://github.com/nicolodiamante/prune) - Effortlessly declutter the macOS Launchpad, ensuring swift access to your most-used apps, paving the way to a tidier, more organised Mac.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [mertd/topclean](https://github.com/mertd/topclean) - Free up disk space with one command and zero config. Inspired by topgrade and BleachBit.
 - [hartwork/git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) - :fire: Command-line tool to delete merged Git branches
 - [k1LoW/runn](https://github.com/k1LoW/runn) - runn is a package/tool for running operations following a scenario.
@@ -1238,7 +1237,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1478,7 +1477,7 @@
 - [palantir/gradle-baseline](https://github.com/palantir/gradle-baseline) - A set of Gradle plugins that configure default code quality tools for developers.
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -1558,7 +1557,7 @@
 ## config 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -1945,7 +1944,7 @@
 - [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
@@ -1982,7 +1981,7 @@
 - [fern4lvarez/piladb](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2050,7 +2049,7 @@
 
 ## dependency-management 
 
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 
 ## deployment 
 
@@ -2095,7 +2094,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
@@ -2172,7 +2171,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️
@@ -2772,7 +2771,7 @@
 - [rife2/rife2](https://github.com/rife2/rife2) - Full-stack, no-declaration, framework to quickly and effortlessly create web applications with modern Java.
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) - database gateway for building data-driven applications
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -3579,7 +3578,7 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
@@ -3689,7 +3688,7 @@
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [ory/polis](https://github.com/ory/polis) - 🔥 Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
@@ -4523,7 +4522,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [ory/polis](https://github.com/ory/polis) - 🔥 Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via 
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [gagan-bansal/munia-pretty-json](https://github.com/gagan-bansal/munia-pretty-json) - Convert the JSON log into readable form with command line.
 - [gistia/json-log-viewer](https://github.com/gistia/json-log-viewer) - Powerful terminal based viewer for JSON logs using ncurses.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -5165,7 +5164,7 @@
 
 - [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [alexdlaird/amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python library (and CLI) for Amazon order history
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A boilerplate-free Kotlin config library for loading configuration files as data classes
@@ -5307,7 +5306,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - ETL, Analytics, Versioning for Unstructured Data
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -5348,7 +5347,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -5403,7 +5402,7 @@
 
 - [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world's first decentralized trained open-weight diffusion model
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀)
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - ETL, Analytics, Versioning for Unstructured Data
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
@@ -5936,13 +5935,13 @@
 
 ## no-code 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -6187,7 +6186,7 @@
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -6295,6 +6294,9 @@
 
 ## others 
 
+- [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World
+- [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) - 
 - [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.
 - [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
@@ -7212,7 +7214,7 @@
 - [dolthub/doltpy](https://github.com/dolthub/doltpy) - A Python API for Dolt
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) - User-mode networking for unprivileged network namespaces
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [containers/shortnames](https://github.com/containers/shortnames) - Shortnames project is collecting registry alias names for shortnames to fully specified container image names.
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [stan-dev/cmdstan](https://github.com/stan-dev/cmdstan) - CmdStan, the command line interface to Stan
@@ -7982,7 +7984,7 @@
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [mara/mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -8096,7 +8098,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [pycontribs/mk](https://github.com/pycontribs/mk) - mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
@@ -8124,7 +8126,7 @@
 
 ## programming 
 
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -8215,7 +8217,7 @@
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
 - [koknat/callGraph](https://github.com/koknat/callGraph) - A multi-language tool which parses source code for function definitions and calls
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -8855,7 +8857,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [GlareDB/glaredb](https://github.com/GlareDB/glaredb) - GlareDB: A light and fast SQL database for analytics
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
@@ -9269,7 +9271,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -9317,7 +9319,7 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
+- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -9748,7 +9750,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -9881,7 +9883,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful ls alternative for bringing clarity to the filesystem ☀️
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [h4l/json.bash](https://github.com/h4l/json.bash) - Command-line tool and bash library that creates JSON
