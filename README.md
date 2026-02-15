@@ -497,6 +497,7 @@
 
 ## android 
 
+- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -731,7 +732,7 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
-- [membrane/api-gateway](https://github.com/membrane/api-gateway) - Membrane is a truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.
+- [membrane/api-gateway](https://github.com/membrane/api-gateway) - Truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.
 - [revapi/revapi](https://github.com/revapi/revapi) - Revapi is an API analysis and change tracking tool written in Java.  Its focus is mainly on Java language itself but it has been specifically designed to not be limited to just Java. API is much more 
 - [perlundq/yajsync](https://github.com/perlundq/yajsync) - A Java implementation of the rsync protocol
 
@@ -3724,7 +3725,7 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [membrane/api-gateway](https://github.com/membrane/api-gateway) - Membrane is a truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.
+- [membrane/api-gateway](https://github.com/membrane/api-gateway) - Truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.
 
 ## gui 
 
@@ -6662,6 +6663,8 @@
 
 ## others 
 
+- [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) - Morphe Patches
+- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS
@@ -6682,7 +6685,7 @@
 - [18o/cargo-stale](https://github.com/18o/cargo-stale) - Fast Rust dependency checker
 - [jake-ccnh/pco-mcp](https://github.com/jake-ccnh/pco-mcp) - Planning Center Online MCP Server
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free with NVIDIA-NIM via the terminal CLI or telegram
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via telegram like openclaw
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [raine/Lolgato](https://github.com/raine/Lolgato) - A macOS app that enhances control over Elgato lights, offering features beyond the standard Elgato Control Center software.
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
@@ -11205,6 +11208,7 @@
 
 ## youtube 
 
+- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 - [n-ce/ytify](https://github.com/n-ce/ytify) - Efficient YouTube Audio Streaming, Effortlessly, Anywhere.
 - [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
