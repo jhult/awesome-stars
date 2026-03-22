@@ -342,9 +342,10 @@
 
 ## ai 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
@@ -413,6 +414,7 @@
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
+- [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
@@ -458,6 +460,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## ajax 
@@ -783,7 +786,7 @@
 
 ## artificial-intelligence 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
@@ -806,6 +809,7 @@
 
 ## automation 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
 - [mratmeyer/rsslookup](https://github.com/mratmeyer/rsslookup) - A free tool to find the RSS feed for any URL
@@ -920,7 +924,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
@@ -963,7 +967,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
@@ -1370,6 +1374,7 @@
 
 ## cli 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [inferadb/teapot](https://github.com/inferadb/teapot) - Teapot — Rust TUI framework inspired by Bubble Tea
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [mag123c/toktrack](https://github.com/mag123c/toktrack) - Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)
@@ -2268,7 +2273,7 @@
 ## deep-learning 
 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -2335,6 +2340,7 @@
 
 ## developer-tools 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [mag123c/toktrack](https://github.com/mag123c/toktrack) - Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (&lt;50MB RAM), SQLite storage, Material Design 3 d
@@ -3144,7 +3150,7 @@
 
 ## generative-ai 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [autonomi-ai/nos](https://github.com/autonomi-ai/nos) - ⚡️ A fast and flexible PyTorch inference server that runs locally, on any cloud or AI HW.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
@@ -3155,6 +3161,7 @@
 
 ## git 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.
@@ -5665,11 +5672,12 @@
 
 ## llm 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [mag123c/toktrack](https://github.com/mag123c/toktrack) - Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -5773,7 +5781,7 @@
 - [thedaviddias/mac-os-setup-applications](https://github.com/thedaviddias/mac-os-setup-applications) - 👾 All I need to setup a new Mac and the applications I use everyday as a Web Developper
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
@@ -5786,7 +5794,7 @@
 ## machine-learning 
 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world's first decentralized trained open-weight diffusion model
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀)
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
@@ -5827,6 +5835,7 @@
 
 ## macos 
 
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [neul-labs/stout](https://github.com/neul-labs/stout) - Stout is a drop-in replacement for the Homebrew CLI that's 10-100x for most operations.
 - [detailobsessed/beads-uninstaller](https://github.com/detailobsessed/beads-uninstaller) - The most comprehensive beads uninstaller known to man
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
@@ -5916,7 +5925,7 @@
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -6743,7 +6752,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (&lt;50MB RAM), SQLite storage, Material Design 3 d
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rusiaaman/chat.md](https://github.com/rusiaaman/chat.md) - An md file as a chat interface and editable history in one.
 - [tumf/jj-desc](https://github.com/tumf/jj-desc) - Generate jj (Jujutsu) commit descriptions automatically using LLMs
@@ -6805,6 +6814,9 @@
 
 ## others 
 
+- [cyrusradfar/homebrew-unf](https://github.com/cyrusradfar/homebrew-unf) - Repo for UNF
+- [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
+- [russellmoss/agent-guard](https://github.com/russellmoss/agent-guard) - 
 - [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ratatui
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
@@ -6813,7 +6825,7 @@
 - [basecamp/writebook](https://github.com/basecamp/writebook) - 
 - [dy0gu/mattermost-plugin-freemium](https://github.com/dy0gu/mattermost-plugin-freemium) - MM plugin that injects custom code into the app to remove ads and enterprise branding, among other QOL improvements.
 - [apartmentlines/mattermost-plugin-poor-mans-scheduled-messages](https://github.com/apartmentlines/mattermost-plugin-poor-mans-scheduled-messages) - Mattermost plugin to schedule messages via /schedule slash command
-- [kubedoio/rustchat](https://github.com/kubedoio/rustchat) - rustchat is an alternative Online Messaging and Collaboration tool. Alternative to Slack, Mattermost, Zulip
+- [rustchatio/rustchat](https://github.com/rustchatio/rustchat) - rustchat is an alternative Online Messaging and Collaboration tool. Alternative to Slack, Mattermost, Zulip
 - [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) - An open source CMS, Relationship Management System (RMS) and Church Management System (ChMS) all rolled into one.
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [meituan-longcat/LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat) - 
@@ -6847,7 +6859,7 @@
 - [aitytech/agentkits-memory](https://github.com/aitytech/agentkits-memory) - Persistent memory system for AI coding assistants via MCP. Works with Claude Code, Cursor, Copilot, Windsurf, Cline.
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 - [nsmle/igramapi](https://github.com/nsmle/igramapi) - NodeJS Instagram private API SDK. Written in TypeScript.
-- [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) - A minimal dependency implementation of Apache Parquet
+- [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) - A fast minimal dependency implementation of Apache Parquet
 - [apache/otava](https://github.com/apache/otava) - Change Detection for Continuous Performance Engineering
 - [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [chenxiaolong/grapheneos-patches](https://github.com/chenxiaolong/grapheneos-patches) - Collection of patches I apply to my personal GrapheneOS builds
@@ -6877,7 +6889,7 @@
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native terminal coding agents command center.
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [EspansoGUI/EspansoGUI](https://github.com/EspansoGUI/EspansoGUI) - A Front End GUI Interface that provides an intuitive IDE for Espanso
 - [finnvoor/yap](https://github.com/finnvoor/yap) - 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
@@ -8879,7 +8891,7 @@
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - Agentic Workflow Automation at Ludicrous Speed
 - [neul-labs/fast-litellm](https://github.com/neul-labs/fast-litellm) - High-performance Rust acceleration for LiteLLM - providing significant performance improvements for connection pooling, rate limiting, and memory-intensive workloads.
 - [neul-labs/fast-langgraph](https://github.com/neul-labs/fast-langgraph) - High-performance Rust accelerators for LangGraph applications. Drop-in components that provide up to 700x speedups for checkpoint operations and 10-50x speedups for state management.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [Dicklesworthstone/markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams structured Markdown + provenance back to AI agents and pipelines
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -9520,6 +9532,7 @@
 
 ## rust 
 
+- [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [inferadb/teapot](https://github.com/inferadb/teapot) - Teapot — Rust TUI framework inspired by Bubble Tea
 - [neul-labs/rninja](https://github.com/neul-labs/rninja) - Build faster. Cache smarter. Drop-in ready.
 - [neul-labs/rewget](https://github.com/neul-labs/rewget) - wget, but it works everywhere.
@@ -9534,7 +9547,7 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
 - [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46.5x higher throughput (74,662 vs 1,605 req/sec) than 
@@ -10191,7 +10204,6 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
-- [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
@@ -10291,7 +10303,7 @@
 ## software 
 
 - [jodigiordano/gg](https://github.com/jodigiordano/gg) - The diagramming tool for flowcharts, mindmaps, user flows, network & cloud diagrams, and more!
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [geneweb/geneweb](https://github.com/geneweb/geneweb) - GeneWeb is a free (as in free speech) genealogy software with a web interface created by Daniel de Rauglaudre.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -10572,6 +10584,7 @@
 
 ## swift 
 
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [fad1/Switcher](https://github.com/fad1/Switcher) - Fast, lightweight Cmd+Tab replacement for macOS. No bloat, no lag, no memory leaks.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
@@ -10611,6 +10624,7 @@
 
 ## swiftui 
 
+- [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
