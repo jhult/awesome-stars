@@ -149,6 +149,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jenkins](#jenkins)
+- [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -345,7 +346,7 @@
 - [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
@@ -557,7 +558,7 @@
 - [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -786,7 +787,7 @@
 
 ## artificial-intelligence 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
@@ -1659,7 +1660,7 @@
 - [MilesCranmer/BorrowChecker.jl](https://github.com/MilesCranmer/BorrowChecker.jl) - A borrow checker for Julia
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [felipebz/zpa](https://github.com/felipebz/zpa) - Parser and static code analysis tool for PL/SQL and Oracle SQL.
@@ -2273,7 +2274,7 @@
 ## deep-learning 
 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -3150,7 +3151,7 @@
 
 ## generative-ai 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [autonomi-ai/nos](https://github.com/autonomi-ai/nos) - ⚡️ A fast and flexible PyTorch inference server that runs locally, on any cloud or AI HW.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
@@ -5034,6 +5035,11 @@
 - [upcmd/up](https://github.com/upcmd/up) - UP - Ultimate Provisioner CLI
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 
+## jetpack-compose 
+
+- [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
+
 ## jquery 
 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
@@ -5152,7 +5158,7 @@
 - [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) - The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of 
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app
 - [AutoParams/AutoParams](https://github.com/AutoParams/AutoParams) - AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin.
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
@@ -5677,7 +5683,7 @@
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -5794,7 +5800,7 @@
 ## machine-learning 
 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world's first decentralized trained open-weight diffusion model
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀)
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
@@ -6752,7 +6758,7 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (&lt;50MB RAM), SQLite storage, Material Design 3 d
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rusiaaman/chat.md](https://github.com/rusiaaman/chat.md) - An md file as a chat interface and editable history in one.
 - [tumf/jj-desc](https://github.com/tumf/jj-desc) - Generate jj (Jujutsu) commit descriptions automatically using LLMs
@@ -6814,6 +6820,7 @@
 
 ## others 
 
+- [john-b-rush/agent-streams](https://github.com/john-b-rush/agent-streams) - Local agent workflow orchestrator for spec → build → skeptical review → fix → merge
 - [cyrusradfar/homebrew-unf](https://github.com/cyrusradfar/homebrew-unf) - Repo for UNF
 - [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
 - [russellmoss/agent-guard](https://github.com/russellmoss/agent-guard) - 
@@ -8891,7 +8898,7 @@
 - [neul-labs/m9m](https://github.com/neul-labs/m9m) - Agentic Workflow Automation at Ludicrous Speed
 - [neul-labs/fast-litellm](https://github.com/neul-labs/fast-litellm) - High-performance Rust acceleration for LiteLLM - providing significant performance improvements for connection pooling, rate limiting, and memory-intensive workloads.
 - [neul-labs/fast-langgraph](https://github.com/neul-labs/fast-langgraph) - High-performance Rust accelerators for LangGraph applications. Drop-in components that provide up to 700x speedups for checkpoint operations and 10-50x speedups for state management.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [Dicklesworthstone/markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams structured Markdown + provenance back to AI agents and pipelines
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -9476,7 +9483,7 @@
 
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
@@ -9532,6 +9539,8 @@
 
 ## rust 
 
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [inferadb/teapot](https://github.com/inferadb/teapot) - Teapot — Rust TUI framework inspired by Bubble Tea
 - [neul-labs/rninja](https://github.com/neul-labs/rninja) - Build faster. Cache smarter. Drop-in ready.
@@ -9547,7 +9556,7 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
 - [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46.5x higher throughput (74,662 vs 1,605 req/sec) than 
@@ -10830,7 +10839,7 @@
 - [hitchdev/hitchstory](https://github.com/hitchdev/hitchstory) - Type-safe YAML integration tests. Tests that write your docs. Tests that rewrite themselves.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [httptoolkit/browser-launcher](https://github.com/httptoolkit/browser-launcher) - Detect the browser versions available on your system, and launch them in an isolated profile for automation & testing purposes.
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
@@ -11297,6 +11306,7 @@
 
 ## web 
 
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
