@@ -344,6 +344,7 @@
 
 ## ai 
 
+- [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
 - [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
@@ -435,7 +436,8 @@
 
 ## ai-agents 
 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review for Git. Graph-based risk scoring, change classification, commit untangling. 95% recall on the Greptile benchmark.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter.
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -534,7 +536,7 @@
 
 ## android 
 
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
@@ -3142,6 +3144,7 @@
 
 ## frontend 
 
+- [unisonweb/ucm-desktop](https://github.com/unisonweb/ucm-desktop) - A desktop app companion to the UCM CLI
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [codeyousef/summon](https://github.com/codeyousef/summon) - A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework
@@ -6156,7 +6159,7 @@
 
 ## mcp 
 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review for Git. Graph-based risk scoring, change classification, commit untangling. 95% recall on the Greptile benchmark.
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.
@@ -6812,7 +6815,6 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rusiaaman/chat.md](https://github.com/rusiaaman/chat.md) - An md file as a chat interface and editable history in one.
 - [tumf/jj-desc](https://github.com/tumf/jj-desc) - Generate jj (Jujutsu) commit descriptions automatically using LLMs
-- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
@@ -6870,6 +6872,10 @@
 
 ## others 
 
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
+- [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
+- [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circu
 - [john-b-rush/agent-streams](https://github.com/john-b-rush/agent-streams) - Local agent workflow orchestrator for spec → build → skeptical review → fix → merge
@@ -7458,7 +7464,7 @@
 - [philipkiely/whopaystechnicalwriters](https://github.com/philipkiely/whopaystechnicalwriters) - A site for discovering opportunities get paid to create technical content.
 - [garethtdavies/mina-taxes](https://github.com/garethtdavies/mina-taxes) - A repository for exporting data from MinaExplorer for popular tax software
 - [SixArm/unix-shell-script-kit](https://github.com/SixArm/unix-shell-script-kit) - Unix shell script kit with many utility functions, exit codes, color codes, assertion texting, and POSIX helpers.
-- [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
+- [weather-gov/weather.gov](https://github.com/weather-gov/weather.gov) - 🌤️ Mirror of weather.gov 2.0 🌤️
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [Granola-Team/iggy](https://github.com/Granola-Team/iggy) - Block utility for Mina Indexer
 - [o1-labs/proof-systems](https://github.com/o1-labs/proof-systems) - The proof systems used by Mina
@@ -9279,7 +9285,7 @@
 
 ## react 
 
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 8.7x faster response times (0.14ms vs 1.22ms) and 44.9x higher throughput (67,208 vs 1,496 req/sec) than 
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than 
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template.
 - [shixinhuang99/czkawka-tauri](https://github.com/shixinhuang99/czkawka-tauri) - A Tauri-based frontend for Czkawka on macOS and Windows
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -9612,7 +9618,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [one-bit/mnemoria](https://github.com/one-bit/mnemoria) - Persistent, git-friendly memory storage for AI agents — hybrid semantic + full-text search, append-only binary format, zero-copy reads
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 8.7x faster response times (0.14ms vs 1.22ms) and 44.9x higher throughput (67,208 vs 1,496 req/sec) than 
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than 
 - [neul-labs/grite](https://github.com/neul-labs/grite) - The issue tracker that lives in your repo. Built for AI agents. Works for humans.
 - [Dicklesworthstone/rust_proxy](https://github.com/Dicklesworthstone/rust_proxy) - Targeted transparent proxy using iptables+ipset to route only selected domains (API providers, cloud services) through an upstream HTTP proxy without global system changes
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
@@ -9721,6 +9727,7 @@
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 - [koto-lang/koto](https://github.com/koto-lang/koto) - A simple, expressive, embeddable programming language
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Cuprate/cuprate](https://github.com/Cuprate/cuprate) - Cuprate, a modular Monero node written in Rust.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -9939,7 +9946,7 @@
 
 ## security 
 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -10978,6 +10985,7 @@
 
 ## typescript 
 
+- [unisonweb/ucm-desktop](https://github.com/unisonweb/ucm-desktop) - A desktop app companion to the UCM CLI
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [zanfiel/engram](https://github.com/zanfiel/engram) - Persistent memory for AI agents
 - [Dicklesworthstone/cass_memory_system](https://github.com/Dicklesworthstone/cass_memory_system) - Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other
@@ -11144,6 +11152,7 @@
 
 ## ui 
 
+- [unisonweb/ucm-desktop](https://github.com/unisonweb/ucm-desktop) - A desktop app companion to the UCM CLI
 - [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
