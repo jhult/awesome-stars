@@ -375,6 +375,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -456,7 +457,7 @@
 - [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - The professional development environment for Claude Code
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
@@ -1301,6 +1302,7 @@
 
 ## chatgpt 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
@@ -2290,6 +2292,7 @@
 
 ## deep-learning 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3218,6 +3221,7 @@
 
 ## git 
 
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 21 languages via tree-sitter.
 - [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
@@ -3314,6 +3318,7 @@
 
 ## github 
 
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
 - [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [Finatext/orgu](https://github.com/Finatext/orgu) - orgu is a tool for implementing organization-wide workflows on GitHub
@@ -4078,7 +4083,6 @@
 - [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson: works on streaming API (core) implementation(s)
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -5447,6 +5451,7 @@
 - [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates t
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
@@ -5737,6 +5742,7 @@
 
 ## llm 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [assafkip/research-mode](https://github.com/assafkip/research-mode) - Anti-hallucination research mode for Claude Code. Toggle on/off to enforce citation requirements and source grounding.
 - [can1357/llm-git](https://github.com/can1357/llm-git) - AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
@@ -5901,6 +5907,8 @@
 
 ## macos 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
+- [madebysan/redact](https://github.com/madebysan/redact) - Video editing without the video editor. Native macOS app — Swift + WhisperKit + FFmpeg.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
@@ -6183,6 +6191,7 @@
 - [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
@@ -6887,10 +6896,10 @@
 
 ## others 
 
+- [Arman19941113/rename-photos](https://github.com/Arman19941113/rename-photos) - 🚀 Rename photos using metadata
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [blopker/alic](https://github.com/blopker/alic) - a little image compressor
-- [Draver93/ff-studio](https://github.com/Draver93/ff-studio) - Graphical User Interface for FFmpeg with powerful features — the highlight being graph-based controls!
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [almatkai/GUI-FFMPEG](https://github.com/almatkai/GUI-FFMPEG) - A modern, user-friendly macOS application that offers a graphical interface for FFmpeg, allowing users to perform various audio and video processing tasks without needing command-line knowledge.
 - [jvm-skills/jvm-skills](https://github.com/jvm-skills/jvm-skills) - 
@@ -7314,7 +7323,7 @@
 - [Expensify/Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication
 - [nhh/zero](https://github.com/nhh/zero) - Experimental jsxdom
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
-- [tryoxiss/atkinson-hyperlegible-pro](https://github.com/tryoxiss/atkinson-hyperlegible-pro) - 88 Extra Glyphs, Including an Alternative Flipped Zero, Updated Kerning and Ligatures
+- [tryoxiss/atkinson-hyperlegible-pro](https://github.com/tryoxiss/atkinson-hyperlegible-pro) - This is a redirect to the new repository. See https://github.com/jacobxperez/lexica-ultralegible for the font repository.
 - [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [vikrum/kidpix](https://github.com/vikrum/kidpix) - JSKIDPIX v1.0.2021
 - [dragostis/chili](https://github.com/dragostis/chili) - Rust port of Spice, a low-overhead parallelization library
@@ -8509,7 +8518,7 @@
 - [Entonsky/GooglePhotoOrganizer](https://github.com/Entonsky/GooglePhotoOrganizer) - Google Photos organizer: auto create Albums by folder names, organize Google Photos folder on google drive, search for dublicates.
 - [q2a/question2answer](https://github.com/q2a/question2answer) - Question2Answer is a free and open source platform for Q&A sites, running on PHP/MySQL.
 - [psifidotos/Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [sharpbracket/redshift](https://github.com/sharpbracket/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [juandesi/email4j](https://github.com/juandesi/email4j) - High level java API for managing and sending emails
 - [shaunwickett13/SortedStackPlugin](https://github.com/shaunwickett13/SortedStackPlugin) - A browser plugin that places the StackOverflow answer with the most positive votes at the top and marks it with a unique icon.
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
@@ -9619,6 +9628,7 @@
 
 ## rust 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review for Git. Graph-based risk scoring, change classification, commit untangling. 95% recall on the Greptile benchmark.
@@ -10661,6 +10671,7 @@
 
 ## svelte 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - Fast FFmpeg GUI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
@@ -10678,6 +10689,8 @@
 
 ## swift 
 
+- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
+- [madebysan/redact](https://github.com/madebysan/redact) - Video editing without the video editor. Native macOS app — Swift + WhisperKit + FFmpeg.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [fad1/Switcher](https://github.com/fad1/Switcher) - Fast, lightweight Cmd+Tab replacement for macOS. No bloat, no lag, no memory leaks.
@@ -10719,6 +10732,7 @@
 
 ## swiftui 
 
+- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
 - [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) - A native macOS client for Hacker News, built with SwiftUI
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
@@ -10867,6 +10881,7 @@
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [D10S0VSkY-OSS/Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource self-service infrastructure solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud! It is a terraform UI with rest api for terraform and Ope
 - [flatt-security/shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
@@ -11231,6 +11246,7 @@
 
 ## video 
 
+- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -11587,6 +11603,7 @@
 
 ## xcode 
 
+- [DenDmitriev/GrabShot](https://github.com/DenDmitriev/GrabShot) - macOS app for taking a series of screenshots from a video file
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
