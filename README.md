@@ -361,6 +361,7 @@
 - [roberto-mello/lavra](https://github.com/roberto-mello/lavra) - A plugin with compound engineering workflows and memory for AI coding agents
 - [rusiaaman/chat.md](https://github.com/rusiaaman/chat.md) - An md file as a chat interface and editable history in one.
 - [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [CrewBench/CrewBench](https://github.com/CrewBench/CrewBench) - An open-source, enhanced version of Claude Cowork built specifically for programmers. PLEASE STAR IF YOU LIKED IT.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -380,7 +381,6 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -459,6 +459,7 @@
 - [pi22by7/In-Memoria](https://github.com/pi22by7/In-Memoria) - Persistent Intelligence Infrastructure for AI Agents
 - [Dicklesworthstone/markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams structured Markdown + provenance back to AI agents and pipelines
 - [Ataraxy-Labs/weave](https://github.com/Ataraxy-Labs/weave) - Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [CrewBench/CrewBench](https://github.com/CrewBench/CrewBench) - An open-source, enhanced version of Claude Cowork built specifically for programmers. PLEASE STAR IF YOU LIKED IT.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -492,7 +493,7 @@
 ## algorithms 
 
 - [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
@@ -2171,7 +2172,7 @@
 
 - [ndsev/zserio](https://github.com/ndsev/zserio) - zero sugar, zero fat, zero serialization overhead
 - [navidre/new_grokking_to_leetcode](https://github.com/navidre/new_grokking_to_leetcode) - Mapping the Grokking Coding Interview Patterns to LeetCode
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 - [JCTools/JCTools](https://github.com/JCTools/JCTools) - 
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -4283,7 +4284,7 @@
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
-- [ortelius-repo-archive/ortelius](https://github.com/ortelius-repo-archive/ortelius) - The mission of the Ortelius community is to expose weak links in the software supply chain by continuously gathering and analyzing software supply chain intelligence introduced across the DevOps pipel
+- [ortelius/ortelius](https://github.com/ortelius/ortelius) - The mission of the Ortelius community is to expose weak links in the software supply chain by continuously gathering and analyzing software supply chain intelligence introduced across the DevOps pipel
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -4896,7 +4897,7 @@
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
+- [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...
 - [bentolor/microframeworks-showcase](https://github.com/bentolor/microframeworks-showcase) - A simple grocery list webapplication implemented with the Microframeworks Spark Java, Jodd, Ninja, Javalite, Pippo and Ratpack
 - [threerings/getdown](https://github.com/threerings/getdown) - Download, Install, Update
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
@@ -5415,6 +5416,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -6239,13 +6241,12 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rusiaaman/chat.md](https://github.com/rusiaaman/chat.md) - An md file as a chat interface and editable history in one.
 - [ben-rogerson/git-worktree-toolbox](https://github.com/ben-rogerson/git-worktree-toolbox) - Easily manage git worktrees, launch tasks and work on multiple features in parallel.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A local sandbox for your AI agents
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
@@ -6955,6 +6956,11 @@
 
 ## others 
 
+- [Tboworst/internship-tracker](https://github.com/Tboworst/internship-tracker) - 
+- [moseslua/free-code-synthetic](https://github.com/moseslua/free-code-synthetic) - Free Code wrapper for synthetic.new API - use Kimi-K2.5 and other models for free
+- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
+- [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
+- [brychanrobot/jj-view](https://github.com/brychanrobot/jj-view) - 
 - [jhult/inko-tantivy](https://github.com/jhult/inko-tantivy) - 
 - [jhult/inko-emailparser](https://github.com/jhult/inko-emailparser) - 
 - [yasingedik/cleanedin](https://github.com/yasingedik/cleanedin) - CleanedIn is a Manifest V3 extension that filters LinkedIn feed noise with compact, rule-based controls.
@@ -6980,6 +6986,7 @@
 - [john-b-rush/agent-streams](https://github.com/john-b-rush/agent-streams) - Local agent workflow orchestrator for spec → build → skeptical review → fix → merge
 - [cyrusradfar/homebrew-unf](https://github.com/cyrusradfar/homebrew-unf) - Repo for UNF
 - [Geek-1001/arcmark](https://github.com/Geek-1001/arcmark) - macOS bookmark manager that attaches to any browser window as a sidebar
+- [russellmoss/agent-guard](https://github.com/russellmoss/agent-guard) - 
 - [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ratatui
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
@@ -7026,7 +7033,7 @@
 - [apache/otava](https://github.com/apache/otava) - Change Detection for Continuous Performance Engineering
 - [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [chenxiaolong/grapheneos-patches](https://github.com/chenxiaolong/grapheneos-patches) - Collection of patches I apply to my personal GrapheneOS builds
-- [zenchantlive/beadboard](https://github.com/zenchantlive/beadboard) - 
+- [zenchantlive/beadboard](https://github.com/zenchantlive/beadboard) - Multi-agent orchestration and communication system built on Beads.
 - [quietpublish/mardi-gras](https://github.com/quietpublish/mardi-gras) - 
 - [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) - pre-compiled binary packages for `cargo install`
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
@@ -10173,7 +10180,7 @@
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [daniel-cues/NMapGUI](https://github.com/daniel-cues/NMapGUI) - Advanced Graphical User Interface for NMap
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
+- [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
