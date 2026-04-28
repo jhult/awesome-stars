@@ -483,13 +483,14 @@
 - [apify/mcpc](https://github.com/apify/mcpc) - A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - My personal Claude Code and OpenAI Codex setup with battle-tested skills, plugins, hooks and agents that I use daily.
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -1425,6 +1426,7 @@
 
 ## claude-code 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
@@ -1449,7 +1451,7 @@
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti) - AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
@@ -1467,7 +1469,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## cli 
@@ -2226,7 +2228,7 @@
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [apache-superset/superset-ui](https://github.com/apache-superset/superset-ui) - Apache Superset UI packages
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -2453,6 +2455,7 @@
 
 ## developer-tools 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [ojuschugh1/sqz](https://github.com/ojuschugh1/sqz) - Compress LLM context to save tokens and reduce costs
 - [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) - High-performance AI coding agent CLI written in Rust with zero unsafe code
@@ -2950,7 +2953,7 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## dotfiles 
@@ -3427,6 +3430,7 @@
 
 ## github 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [neul-labs/stkd](https://github.com/neul-labs/stkd) - Stacked diffs. Simplified.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -5710,7 +5714,7 @@
 - [metabase/static-embedding-reference-apps](https://github.com/metabase/static-embedding-reference-apps) - Reference applications for common web frameworks showing how to embed Metabase charts
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
 ## latex 
@@ -5919,7 +5923,6 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
@@ -6408,6 +6411,7 @@
 
 ## mobile 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager) - Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, 
 - [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) - A multi-platform (Flutter) application for reading your emails, with your favorite devices, using the JMAP protocol!
 - [yahoo/elide](https://github.com/yahoo/elide) - Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort.
@@ -7072,6 +7076,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [juanceresa/sift-kg](https://github.com/juanceresa/sift-kg) - Turn any collection of documents into a knowledge graph. Extract entities and relationships via LLM, deduplicate with your approval. Map domains, find hidden connections, spot patterns across document
 - [zby/commonplace](https://github.com/zby/commonplace) - Methodology for agent-operated knowledge bases. Wiki ethos, markdown files, agent skills.
@@ -7740,7 +7745,6 @@
 - [porech/roborock-oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something.
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-- [alexkates/supajournal](https://github.com/alexkates/supajournal) - A journaling app powered by Supabase and OpenAI
 - [pgpkg/pgpkg](https://github.com/pgpkg/pgpkg) - pgpkg is a small, fast CLI tool and Go library that enables seamless integration of PostgreSQL functions into native code workflows. It integrates pl/pgsql code management, transactional migrations, S
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
@@ -8867,7 +8871,7 @@
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [froxlor/froxlor](https://github.com/froxlor/froxlor) - The server administration software for your needs - The official Froxlor development Git repository
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
