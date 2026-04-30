@@ -338,6 +338,7 @@
 - [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot) - Hexabot v3 is an automation platform with first-class AI capabilities, combining workflows, actions, and conversational channels in one runtime.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [hazcod/maclaunch](https://github.com/hazcod/maclaunch) - Manage your macOS startup items.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -616,7 +617,6 @@
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
-- [ioannisa/KSafe](https://github.com/ioannisa/KSafe) - Meet KSafe. Secure-by-default key/value persistence for Kotlin Multiplatform and Android. Encrypted by default, with optional unencrypted storage, property delegates, Flow/StateFlow, and hardware-back
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
 - [gabrieldrn/carbon-compose](https://github.com/gabrieldrn/carbon-compose) - IBM's Carbon design system implementation in Compose Multiplatform
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.
@@ -1434,6 +1434,8 @@
 
 ## claude-code 
 
+- [Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) - Real-time cost tracking and budget management for Claude Code. Zero setup. No Docker. No Grafana. Just install and go.
+- [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -2121,6 +2123,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [turbot/steampipe-postgres-fdw](https://github.com/turbot/steampipe-postgres-fdw) - The Steampipe foreign data wrapper (FDW) is a zero-ETL product that provides Postgres foreign tables which translate queries into API calls to cloud services and APIs. It's bundled with Steampipe and 
 - [projectnessie/nessie](https://github.com/projectnessie/nessie) - Nessie: Transactional Catalog for Data Lakes with Git-like semantics
@@ -2464,6 +2467,7 @@
 
 ## developer-tools 
 
+- [Manavarya09/cost-guardian](https://github.com/Manavarya09/cost-guardian) - Real-time cost tracking and budget management for Claude Code. Zero setup. No Docker. No Grafana. Just install and go.
 - [SyntheticAutonomicMind/CLIO](https://github.com/SyntheticAutonomicMind/CLIO) - Command Line Intelligence Orchestrator
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions) - tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.
@@ -3062,7 +3066,7 @@
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
@@ -3579,7 +3583,7 @@
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [nikivdev/license-up](https://github.com/nikivdev/license-up) - Create a license quickly
 - [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don't want to use MagicDNS? Put all of those DNS entries in Cloudflare instead.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -3663,6 +3667,7 @@
 
 ## golang 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -4082,6 +4087,7 @@
 
 ## hacktoberfest 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos) - Find stale repositories in a GitHub organization.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -4683,7 +4689,6 @@
 - [Infomaniak/swift-rich-html-editor](https://github.com/Infomaniak/swift-rich-html-editor) - A WYSIWYG text editor written in Swift for iOS/macOS/visionOS. Available for SwiftUI, UIKit and AppKit. Based on HTML contenteditable. Used in the Infomaniak Mail application.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [ioannisa/KSafe](https://github.com/ioannisa/KSafe) - Meet KSafe. Secure-by-default key/value persistence for Kotlin Multiplatform and Android. Encrypted by default, with optional unencrypted storage, property delegates, Flow/StateFlow, and hardware-back
 - [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
 - [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -5386,7 +5391,7 @@
 - [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way.
 - [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
-- [ioannisa/KSafe](https://github.com/ioannisa/KSafe) - Meet KSafe. Secure-by-default key/value persistence for Kotlin Multiplatform and Android. Encrypted by default, with optional unencrypted storage, property delegates, Flow/StateFlow, and hardware-back
+- [ioannisa/KSafe](https://github.com/ioannisa/KSafe) - A library for saving key/value pair data for Kotlin Multiplatform and Android. Encryption enabled by default, with option for Plain (unencrypted) storage. Supports Property Delegates, Flow/StateFlow, 
 - [BGMSound/documentify](https://github.com/BGMSound/documentify) - documentify is an easy and powerful API documentation tool for spring restdocs.
 - [jeka-dev/jeka](https://github.com/jeka-dev/jeka) - Next-Gen Build Tool for Java & Co.
 - [StefanOltmann/mines](https://github.com/StefanOltmann/mines) - Minesweeper-like puzzle game
@@ -7101,6 +7106,7 @@
 
 ## others 
 
+- [AgentWorkforce/burn](https://github.com/AgentWorkforce/burn) - The first step to burning less tokens is understanding how many you burn to begin with
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
@@ -7255,7 +7261,7 @@
 - [18o/cargo-stale](https://github.com/18o/cargo-stale) - Fast Rust dependency checker
 - [jake-ccnh/pco-mcp](https://github.com/jake-ccnh/pco-mcp) - Planning Center Online MCP Server
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [raine/Lolgato](https://github.com/raine/Lolgato) - A macOS app that enhances control over Elgato lights, offering features beyond the standard Elgato Control Center software.
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
@@ -7331,7 +7337,7 @@
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS.
 - [jstachio/ezkv](https://github.com/jstachio/ezkv) - A non-opinionated Java bootstrapping configuration library
-- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Lightweight Durable Java Workflows
+- [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Database-Backed Durable Java Workflows
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API
 - [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World
@@ -9480,6 +9486,7 @@
 
 ## python3 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [neul-labs/fastworker](https://github.com/neul-labs/fastworker) - Add background workers to your FastAPI and Python applications in seconds, without the complexity.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI
@@ -10810,7 +10817,6 @@
 - [Trivadis/plsql-syntax-colors](https://github.com/Trivadis/plsql-syntax-colors) - PL/SQL Syntax Colors for SQL Developer
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -10923,7 +10929,6 @@
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [ebean-orm/ebean](https://github.com/ebean-orm/ebean) - Ebean ORM
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
@@ -11333,6 +11338,7 @@
 
 ## typescript 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
