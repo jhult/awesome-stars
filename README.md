@@ -323,6 +323,7 @@
 
 ## agent 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
@@ -533,6 +534,7 @@
 
 ## ai-agents 
 
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [neul-labs/agentvfs](https://github.com/neul-labs/agentvfs) - Workspace runtime and execution boundary for AI agents
 - [neul-labs/ukkin](https://github.com/neul-labs/ukkin) - Create AI agents on your phone that automate your daily tasks.
 - [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) - Experimental self-improving multi-agent coding system: a root agent recursively decomposes goals and delegates to specialist subagents, learning from failures by mutating a git-backed agent genome. Su
@@ -927,6 +929,7 @@
 
 ## artificial-intelligence 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [SyntheticAutonomicMind/CLIO](https://github.com/SyntheticAutonomicMind/CLIO) - An AI-assisted coding agent that runs in your terminal and supports many providers and models.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1462,6 +1465,7 @@
 
 ## chatgpt 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
 - [zubyj/leetcode-explained](https://github.com/zubyj/leetcode-explained) - Browser extension that adds video solutions, company tags, and GPT code analysis into Leetcode problems
@@ -1557,6 +1561,7 @@
 
 ## claude-code 
 
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebal
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [es617/claude-replay](https://github.com/es617/claude-replay) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML  replays
@@ -1578,7 +1583,7 @@
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI spend goes. Interactive TUI dashboard for token usage and cost across Claude Code, Codex, Cursor, and 25+ more AI tools. npx codeburn
 - [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [routatic/proxy](https://github.com/routatic/proxy) - Use your OpenCode Go subscription with Claude Code.
@@ -1637,6 +1642,8 @@
 
 ## cli 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
@@ -2066,6 +2073,7 @@
 
 ## compiler 
 
+- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools
 - [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 7000+ test suites, includes real world E2E.
 - [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb / .rs
 - [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
@@ -2317,6 +2325,7 @@
 ## data 
 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, simpler SQL - with familiar syntax.
 - [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs.
 - [iesahin/xvc](https://github.com/iesahin/xvc) - A robust (🐢) and fast (🐇) MLOps tool for managing data and pipelines in Rust (🦀)
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -2346,6 +2355,7 @@
 ## data-analysis 
 
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, simpler SQL - with familiar syntax.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -2443,6 +2453,7 @@
 
 ## data-visualization 
 
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, simpler SQL - with familiar syntax.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
@@ -2470,6 +2481,7 @@
 
 ## database 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [oracle/python-oracledb](https://github.com/oracle/python-oracledb) - Python driver for Oracle Database conforming to the Python DB API 2.0 specification with many advanced features. Fast, small, portable. Enterprise ready.
@@ -2682,6 +2694,7 @@
 
 ## developer-tools 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [dinakars777/git-time-machine](https://github.com/dinakars777/git-time-machine) - 🕰️ Browse Git reflog visually and recover reachable local history with a TUI
@@ -3751,6 +3764,7 @@
 
 ## go 
 
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [prime-radiant-inc/llm-proxy](https://github.com/prime-radiant-inc/llm-proxy) - Transparent logging proxy for LLM API traffic that auto-configures clients and records every request and response to Claude, OpenAI, and other providers for debugging, auditing, and analysis.
 - [prime-radiant-inc/stockyard](https://github.com/prime-radiant-inc/stockyard) - Coding-agent VM orchestrator: runs coding agents in isolated VMs — Firecracker micro-VMs on Linux (with ZFS-based audit-trail snapshots) and Apple's container tool on macOS.
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
@@ -5050,7 +5064,7 @@
 - [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) - The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of 
 - [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
 - [bsorrentino/maven-annotation-plugin](https://github.com/bsorrentino/maven-annotation-plugin) - A maven plugin to process annotation from jdk8 and above at compile time
-- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
+- [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - High-Performance Asynchronous HTTP and WebSocket Client Library for Java
 - [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
 - [Hakky54/log-captor](https://github.com/Hakky54/log-captor) - 🎯  LogCaptor captures log entries for unit and integration testing purposes
 - [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of runn
@@ -6204,6 +6218,8 @@
 
 ## llm 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [prime-radiant-inc/llm-proxy](https://github.com/prime-radiant-inc/llm-proxy) - Transparent logging proxy for LLM API traffic that auto-configures clients and records every request and response to Claude, OpenAI, and other providers for debugging, auditing, and analysis.
 - [prime-radiant-inc/sprout](https://github.com/prime-radiant-inc/sprout) - Experimental self-improving multi-agent coding system: a root agent recursively decomposes goals and delegates to specialist subagents, learning from failures by mutating a git-backed agent genome. Su
@@ -6410,6 +6426,7 @@
 
 ## macos 
 
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
@@ -6578,6 +6595,7 @@
 
 ## markdown 
 
+- [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [zby/commonplace](https://github.com/zby/commonplace) - The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown your agents execute.
@@ -6699,7 +6717,7 @@
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [Rheosoph/flow-like](https://github.com/Rheosoph/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [instavm/open-skills](https://github.com/instavm/open-skills) - OpenSkills: Run Claude Skills Locally using any LLM
@@ -7399,6 +7417,7 @@
 
 ## openai 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [prime-radiant-inc/llm-proxy](https://github.com/prime-radiant-inc/llm-proxy) - Transparent logging proxy for LLM API traffic that auto-configures clients and records every request and response to Claude, OpenAI, and other providers for debugging, auditing, and analysis.
 - [prime-radiant-inc/hearthstone](https://github.com/prime-radiant-inc/hearthstone) - Hearthstone gives babysitters and family instant answers to household questions, grounded in your Google Docs with cited sources; Bun backend plus iOS app with PIN-based guest access.
@@ -7482,6 +7501,15 @@
 
 ## others 
 
+- [jjmschofield/github-codeowners](https://github.com/jjmschofield/github-codeowners) - 
+- [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker) - Check .github/CODEOWNERS consistency
+- [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
+- [butter-dot-dev/bVisor](https://github.com/butter-dot-dev/bVisor) - Embedded bash sandbox for agents, inspired by gVisor
+- [eryx-org/eryx](https://github.com/eryx-org/eryx) - A Python sandbox using Wasmtime
+- [sd2k/conch](https://github.com/sd2k/conch) - Bash in WebAssembly
+- [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [man-consult/code-mapper](https://github.com/man-consult/code-mapper) - A tool to parse code and generate a graph to highlight read, write and authentication links
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
@@ -7783,7 +7811,6 @@
 - [dbos-inc/dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) - Database-Backed Durable Java Workflows
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
 - [urbanairship/java-library](https://github.com/urbanairship/java-library) - Java client library for the Urban Airship API
-- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined for the Modern Data World
 - [pbkn/dlq-auto-redrive-by-cloudwatch](https://github.com/pbkn/dlq-auto-redrive-by-cloudwatch) - 
 - [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) - An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3.
 - [martinbonnin/kscripts](https://github.com/martinbonnin/kscripts) - A bunch of kscripts
@@ -10406,6 +10433,8 @@
 
 ## rust 
 
+- [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebal
 - [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
@@ -10771,6 +10800,7 @@
 
 ## scala 
 
+- [sbt/zinc](https://github.com/sbt/zinc) - Scala incremental compiler library, used by sbt and other build tools
 - [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb / .rs
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -10801,6 +10831,7 @@
 
 ## security 
 
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [alinaqi/maggy](https://github.com/alinaqi/maggy) - What started as an opinionated Claude Code setup kit is now an autonomous AI engineering command center
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
@@ -11305,9 +11336,11 @@
 
 ## sql 
 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [JaCraig/SQLParser](https://github.com/JaCraig/SQLParser) - An SQL Parser/Lexer for C#
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia) - Generate type-checked Rust from your PostgreSQL.
+- [trilogy-data/pytrilogy](https://github.com/trilogy-data/pytrilogy) - SQL Reimagined. Strongly typed, composable, simpler SQL - with familiar syntax.
 - [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -11663,6 +11696,7 @@
 
 ## terminal 
 
+- [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [dinakars777/git-time-machine](https://github.com/dinakars777/git-time-machine) - 🕰️ Browse Git reflog visually and recover reachable local history with a TUI
@@ -11860,6 +11894,8 @@
 
 ## tui 
 
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
+- [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [dinakars777/git-time-machine](https://github.com/dinakars777/git-time-machine) - 🕰️ Browse Git reflog visually and recover reachable local history with a TUI
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
