@@ -168,6 +168,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -327,7 +328,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -379,7 +380,7 @@
 - [neul-labs/stratafs](https://github.com/neul-labs/stratafs) - A semantic filesystem that transforms passive file storage into an intelligent, searchable knowledge base.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
@@ -428,7 +429,7 @@
 - [madebyaris/native-cli-ai](https://github.com/madebyaris/native-cli-ai) - A native Rust CLI  for orchestrating AI agents across projects, with persistent sessions, worktrees, and local-first control.
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [zubyj/leetcode-explained](https://github.com/zubyj/leetcode-explained) - Browser extension that adds video solutions, company tags, and GPT code analysis into Leetcode problems
@@ -1601,7 +1602,7 @@
 - [vostride/agent-qa](https://github.com/vostride/agent-qa) - The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
 - [alinaqi/maggy](https://github.com/alinaqi/maggy) - What started as an opinionated Claude Code setup kit is now an autonomous AI engineering command center
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -2006,6 +2007,7 @@
 
 ## code-review 
 
+- [toniperic/pr-bro](https://github.com/toniperic/pr-bro) - 🖥️ TUI app that prioritizes pull request reviews using weighted scoring — so you always know which PR to review next.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [torbiak/git-autofixup](https://github.com/torbiak/git-autofixup) - create fixup commits for topic branches
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -3413,7 +3415,7 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [neul-labs/fastworker](https://github.com/neul-labs/fastworker) - No Redis. No RabbitMQ. Just Python.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [D10S0VSkY-OSS/Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource self-service infrastructure solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud! It is a terraform UI with rest api for terraform and Ope
 - [rcdilorenzo/ecce](https://github.com/rcdilorenzo/ecce) - ML Prediction of Bible Topics and Passages (Python / React), 2019
@@ -4808,7 +4810,7 @@
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [haskell-oracle/oracle-simple](https://github.com/haskell-oracle/oracle-simple) - Modern bindings to Oracle odpic
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -5410,7 +5412,7 @@
 - [deliberative/crypto](https://github.com/deliberative/crypto) - Cryptographic operations in WASM, C, Typescript for Nodejs and the browser.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
@@ -6081,6 +6083,10 @@
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 
+## learn-to-code 
+
+- [pixlie/gitplay](https://github.com/pixlie/gitplay) - Learn how a software project (using git) evolved over time from its commit log. Its like YouTube for a git project. Desktop app built with Rust and SolidJS
+
 ## learning 
 
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -6256,7 +6262,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client — 142+ providers, 11 native language bindings, powered by Rust core
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
@@ -7041,7 +7047,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [berillos/minaverse](https://github.com/berillos/minaverse) - 🌐 Mina Protocol explorer
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
@@ -7530,6 +7536,9 @@
 
 ## others 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [evanw/kiwi](https://github.com/evanw/kiwi) - A schema-based binary format for efficiently encoding trees of data
+- [sketch-hq/fig2sketch](https://github.com/sketch-hq/fig2sketch) - fig2sketch is a command line tool that converts `.fig` files into Sketch design documents (`.sketch`), which can then be opened with Sketch applications.
 - [h33333333/xray](https://github.com/h33333333/xray) - A layer inspector for OCI-compliant images
 - [wingnut128/imgchk](https://github.com/wingnut128/imgchk) - Container image inspector and layer extraction tool
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
@@ -9637,6 +9646,7 @@
 
 ## productivity 
 
+- [toniperic/pr-bro](https://github.com/toniperic/pr-bro) - 🖥️ TUI app that prioritizes pull request reviews using weighted scoring — so you always know which PR to review next.
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -9843,7 +9853,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [eggpi/citationhunt](https://github.com/eggpi/citationhunt) - A fun tool for quickly browsing unsourced snippets on Wikipedia.
@@ -10174,7 +10184,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [berillos/minaverse](https://github.com/berillos/minaverse) - 🌐 Mina Protocol explorer
@@ -10489,7 +10499,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Minimal coding agent written in Rust, optimized for memory footprint and performance
+- [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) - Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
 - [shashanktomar/ratatui-cheese](https://github.com/shashanktomar/ratatui-cheese) - Bubbletea-inspired components for Ratatui
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
@@ -10928,7 +10938,7 @@
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [eclipse-vertx/vertx-auth](https://github.com/eclipse-vertx/vertx-auth) - 
+- [eclipse-vertx/vertx-auth](https://github.com/eclipse-vertx/vertx-auth) - Authentication and authorization providers for Eclipse Vert.x
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [lunasec-io/lunasec](https://github.com/lunasec-io/lunasec) - LunaSec - Dependency Security Scanner that automatically notifies you about vulnerabilities like Log4Shell or node-ipc in your Pull Requests and Builds. Protect yourself in 30 seconds with the LunaTra
@@ -11939,6 +11949,7 @@
 
 ## tui 
 
+- [toniperic/pr-bro](https://github.com/toniperic/pr-bro) - 🖥️ TUI app that prioritizes pull request reviews using weighted scoring — so you always know which PR to review next.
 - [srothgan/claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native Rust terminal interface for Claude Code
 - [browser-use/terminal](https://github.com/browser-use/terminal) - Terminal UI to get stuff done in the browser
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -12059,7 +12070,7 @@
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [differentialhq/differential](https://github.com/differentialhq/differential) - Typescript-first background services platform with durable functions.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -12076,7 +12087,7 @@
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [AykutSarac/jsoncrack-vscode](https://github.com/AykutSarac/jsoncrack-vscode) - VS Code extension of JSON Crack. Convert your JSON files into graphs with a single click and view them onto graphs.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -12198,7 +12209,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
 - [andrewinci/Insulator](https://github.com/andrewinci/Insulator) - A client UI to inspect Kafka topics, consume, produce and much more
@@ -12472,7 +12483,7 @@
 
 ## web-assembly 
 
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 
 ## web-components 
 
