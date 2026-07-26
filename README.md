@@ -1772,6 +1772,7 @@
 
 ## cli 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
 - [prime-radiant-inc/serf](https://github.com/prime-radiant-inc/serf) - A non-interactive coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google
@@ -6258,6 +6259,7 @@
 
 ## linux 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
@@ -6613,6 +6615,7 @@
 
 ## macos 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight & Raycast alternative with built-in AI commands, written in Swift and Rust.
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
@@ -7714,6 +7717,7 @@
 
 ## others 
 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [vitali87/pr-split](https://github.com/vitali87/pr-split) - Decompose large PRs into a DAG of small, reviewable PRs
 - [nyblnet/bento](https://github.com/nyblnet/bento) - 
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -7766,7 +7770,7 @@
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [man-consult/code-mapper](https://github.com/man-consult/code-mapper) - A tool to parse code and generate a graph to highlight read, write and authentication links
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
-- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim like Lua plugins
 - [havard-ludovic/GitPhantomHunter](https://github.com/havard-ludovic/GitPhantomHunter) - High-speed GitHub orphan commit finder using GraphQL batching. Discovers hidden commits in forks and detached heads by SHA prefix brute-force
@@ -10706,6 +10710,7 @@
 
 ## rust 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
@@ -11988,6 +11993,7 @@
 
 ## terminal 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [srothgan/claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native Rust terminal interface for Claude Code
 - [browser-use/terminal](https://github.com/browser-use/terminal) - Terminal UI to get stuff done in the browser
@@ -12192,6 +12198,7 @@
 
 ## tui 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [toniperic/pr-bro](https://github.com/toniperic/pr-bro) - 🖥️ TUI app that prioritizes pull request reviews using weighted scoring — so you always know which PR to review next.
 - [srothgan/claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native Rust terminal interface for Claude Code
@@ -12785,6 +12792,7 @@
 
 ## windows 
 
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [neul-labs/gity](https://github.com/neul-labs/gity) - Make large Git repositories feel instant.
