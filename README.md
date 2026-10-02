@@ -664,7 +664,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [assafkip/kipi-system](https://github.com/assafkip/kipi-system) - Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run as your chief of staff, lawyer, PM, or investigator. Plain markdown. Built on Cl
 - [opral/lix](https://github.com/opral/lix) - Embeddable version control system for files and tables.
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
 - [Ataraxy-Labs/inspect](https://github.com/Ataraxy-Labs/inspect) - Entity-level code review. Triages pull requests by structural risk using cross-file dependency graphs and LLMs that read for meaning.
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
@@ -1894,7 +1894,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
 - [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) - A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.
@@ -6451,7 +6451,7 @@
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [kem-a/AppManager](https://github.com/kem-a/AppManager) - MacOS style AppImage installer and management application
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [naseridev/memz](https://github.com/naseridev/memz) - Advanced Linux memory analyzer
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
@@ -6820,7 +6820,7 @@
 - [ptsochantaris/trailer-json](https://github.com/ptsochantaris/trailer-json) - A feather-weight JSON decoder in Swift
 - [ptsochantaris/key-vine](https://github.com/ptsochantaris/key-vine) - A Keychain access wrapper in Swift, because the world needs more of these
 - [tommyyzhao/syncorda](https://github.com/tommyyzhao/syncorda) - Driverless macOS app audio router with per-output delay
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight & Raycast alternative with built-in AI commands, written in Swift and Rust.
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
@@ -7150,7 +7150,7 @@
 - [lourencomaciel/sift-gateway](https://github.com/lourencomaciel/sift-gateway) - Reliability gateway for AI tool output: schema-stable, secret-safe, pagination-complete JSON for MCP and CLI agents.
 - [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, Apache-2.0, ships as library / MCP server / HTTP cluster.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
@@ -7964,6 +7964,11 @@
 
 ## others 
 
+- [hohum/imap_autosort_nilsimsa](https://github.com/hohum/imap_autosort_nilsimsa) - use nilsimsa on email headers to automatically sort your inbox into imap folders
+- [jan-janssen/mailsort](https://github.com/jan-janssen/mailsort) - Random forest based email sorting for any IMAP based email service.
+- [reserve-slosh/infermail](https://github.com/reserve-slosh/infermail) - ML-powered email organizer — fetches IMAP accounts, classifies emails with rules and a scikit-learn model, and       re-sorts them into the correct IMAP folders automatically.
+- [outworlder/imap-filter](https://github.com/outworlder/imap-filter) - Rule-based and AI-powered email organizer that automatically sorts messages into IMAP folders
+- [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [jjcm/diffui-bb](https://github.com/jjcm/diffui-bb) - Diffui plugin for bb: canvases, Build with bb, and @diffui mentions.
 - [jjcm/makefaster](https://github.com/jjcm/makefaster) - Make Faster — website performance tools and site leaderboard
 - [skhoroshavin/pi-unflip](https://github.com/skhoroshavin/pi-unflip) - fix corrupted text (stray CJK, homoglyph flips) in pi assistant responses
@@ -11056,7 +11061,7 @@
 - [tontinton/dbeel](https://github.com/tontinton/dbeel) - A distributed thread-per-core document database
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [ainto-labs/ainto-app](https://github.com/ainto-labs/ainto-app) - Fast, open-source macOS launcher for app search, clipboard history, and snippets — a native Spotlight & Raycast alternative with built-in AI commands, written in Swift and Rust.
@@ -11480,7 +11485,7 @@
 - [trevorbernard/tumbler](https://github.com/trevorbernard/tumbler) - A diceware passphrase generator with selectable entropy sources — copies high-entropy passphrases straight to your clipboard
 - [lourencomaciel/sift-gateway](https://github.com/lourencomaciel/sift-gateway) - Reliability gateway for AI tool output: schema-stable, secret-safe, pagination-complete JSON for MCP and CLI agents.
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) - Full Toolkit for Next-Level Domain Analysis
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
 - [OpenPawz/openpawz](https://github.com/OpenPawz/openpawz) - OpenPawz is a native, offline-first desktop AI platform (Tauri v2 + Rust) that lets you run local models or connect to any compatible provider. It gives you private-by-default agents with hybrid memor
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -12380,7 +12385,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [srothgan/claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native Rust terminal interface for Claude Code
 - [browser-use/terminal](https://github.com/browser-use/terminal) - Terminal UI to get stuff done in the browser
@@ -12591,7 +12596,7 @@
 - [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [toniperic/pr-bro](https://github.com/toniperic/pr-bro) - 🖥️ TUI app that prioritizes pull request reviews using weighted scoring — so you always know which PR to review next.
 - [srothgan/claude-code-rust](https://github.com/srothgan/claude-code-rust) - A native Rust terminal interface for Claude Code
@@ -13206,7 +13211,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [SickleFire/m-vis](https://github.com/SickleFire/m-vis) - lightweight cross-platform memory visualizer tool
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) - An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [neul-labs/gity](https://github.com/neul-labs/gity) - Make large Git repositories feel instant.
